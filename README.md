@@ -6,7 +6,7 @@ Claude Code hook events에 맞춰 음성 알림을 재생하는 플러그인.
 
 ```bash
 /plugin marketplace add jeonghyeon-net/claude-code-voice-notify
-/plugin install peon-notifications@claude-code-voice-notify
+/plugin install voice-notify@claude-code-voice-notify
 ```
 
 ## Events

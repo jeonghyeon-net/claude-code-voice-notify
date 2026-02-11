@@ -5,7 +5,7 @@
   },
   "plugins": [
     {
-      "name": "peon-notifications",
+      "name": "voice-notify",
       "description": "Voice notifications for Claude Code lifecycle events.",
       "source": {
         "source": "github",
