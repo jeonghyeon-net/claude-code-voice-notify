@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Warcraft III Peon voice notification player for Claude Code hooks
+# Voice notification player for Claude Code hooks
 # Usage: play-peon.sh <category>
 # Categories: session_start, stop, user_prompt, work, notification
 

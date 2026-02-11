@@ -1,6 +1,6 @@
 # claude-code-voice-notify
 
-Claude Code hook events에 맞춰 Warcraft III Peasant 음성을 재생하는 플러그인.
+Claude Code hook events에 맞춰 음성 알림을 재생하는 플러그인.
 
 ## Install
 

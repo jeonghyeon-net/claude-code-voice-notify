@@ -1,6 +1,6 @@
 {
   "name": "peon-notifications",
   "version": "1.0.0",
-  "description": "Warcraft III Peon voice notifications for Claude Code events",
+  "description": "Voice notifications for Claude Code events",
   "hooks": "./hooks/hooks.json"
 }
