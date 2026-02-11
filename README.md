@@ -4,17 +4,9 @@ Claude Code hook events에 맞춰 Warcraft III Peasant 음성을 재생하는 �
 
 ## Install
 
-### From GitHub Marketplace
-
 ```bash
 /plugin marketplace add jeonghyeon-net/claude-code-voice-notify
-/plugin install peon-notifications@jeonghyeon-net/claude-code-voice-notify
-```
-
-### Local
-
-```bash
-claude --plugin-dir ./claude-code-voice-notify
+/plugin install peon-notifications@claude-code-voice-notify
 ```
 
 ## Events
