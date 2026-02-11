@@ -1,0 +1,9 @@
+{
+  "plugins": [
+    {
+      "name": "peon-notifications",
+      "description": "Warcraft III Peon voice notifications for Claude Code lifecycle events. Plays contextual Peon voice lines on session start, task completion, user prompts, and more.",
+      "path": "."
+    }
+  ]
+}
