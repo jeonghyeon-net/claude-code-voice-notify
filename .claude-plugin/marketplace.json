@@ -7,7 +7,10 @@
     {
       "name": "peon-notifications",
       "description": "Warcraft III Peasant voice notifications for Claude Code lifecycle events.",
-      "source": "."
+      "source": {
+        "source": "github",
+        "repo": "jeonghyeon-net/claude-code-voice-notify"
+      }
     }
   ]
 }
