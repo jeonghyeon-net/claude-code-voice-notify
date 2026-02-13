@@ -1,6 +1,5 @@
 {
   "name": "voice-notify",
   "version": "1.0.0",
-  "description": "Voice notifications for Claude Code events",
-  "hooks": "./hooks/hooks.json"
+  "description": "Voice notifications for Claude Code events"
 }
